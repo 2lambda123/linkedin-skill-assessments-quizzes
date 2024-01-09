@@ -1,0 +1,82 @@
+repo_name: 2lambda123/linkedin-skill-assessments-quizzes
+report_id: b9b7b9fc6d6eeaac69c39150cc30fa0b
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:54:23+00:00'
+requested_by: webdev-ashishk
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Marco Biedermann
+  last_updated_on: 2020-11-10 08:18:21.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes
+  detection_source: Repo Metadata
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes/blob/main/questioncounter.py
+  detection_source: questioncounter.py
+  last_updated_by: jdelucca
+  last_updated_on: 2022-10-18 16:30:27.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Zhenja
+  last_updated_on: 2022-10-14 08:12:58.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evgeny Bazhanov
+  last_updated_on: 2020-07-20 18:51:29.000000000 Z
