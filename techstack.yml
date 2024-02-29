@@ -2,7 +2,7 @@ repo_name: 2lambda123/linkedin-skill-assessments-quizzes
 report_id: b9b7b9fc6d6eeaac69c39150cc30fa0b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:54:23+00:00'
+timestamp: '2024-02-29T19:18:42+00:00'
 requested_by: webdev-ashishk
 provider: github
 branch: main
@@ -55,7 +55,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/linkedin-skill-assessments-quizzes
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
